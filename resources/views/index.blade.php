@@ -11,7 +11,7 @@
     </head>
     <body class="bg-dark">
         <nav class="navbar navbar-light bg-dark">
-            <a class="navbar-brand text-danger" href="#">
+            <a class="navbar-brand text-light" href="#">
             Scrap Bandit
             </a>
         </nav>
